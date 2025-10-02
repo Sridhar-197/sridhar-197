@@ -1,18 +1,69 @@
-# 💫 About Me:
-👋 Hi, I’m Sridhar.<br>🎓 I’m a final-year Electronics and Communication Engineering student (2021–2025).<br>💻 I have skills in Java, SQL, and problem-solving.<br>🌱 Currently, I’m learning AI/ML and Full Stack Development.<br>📱 I love building apps that help students, like a quiz-based aptitude app.<br>🚀 I’m passionate about technology and continuous learning.<br>🤝 Always open to collaborating on meaningful projects
+<h1 align="center">💫 About Me</h1>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sridhar-rc/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sridharchinnusamy6@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sridhar-197&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sridhar-197&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sridhar-197&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table>
+  <tr>
+    <td width="60%" style="vertical-align: top;">
+      <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; line-height: 1.6;">
+        👋 Hi, I’m <b>Sridhar</b>.<br>
+        🎓 I’m a final-year Electronics and Communication Engineering student (2021–2025).<br>
+        💻 I have skills in Java, SQL, and problem-solving.<br>
+        🌱 Currently, I’m learning AI/ML and Full Stack Development.<br>
+        📱 I love building apps that help students, like a quiz-based aptitude app.<br>
+        🚀 I’m passionate about technology and continuous learning.<br>
+        🤝 Always open to collaborating on meaningful projects.
+      </p>
+    </td>
+    <td width="40%" style="text-align: center;">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTE0cnR6d21rYWdwczlsdnM5cXo4OXZ6bmNhNnZmMWoyd2ZiZHVzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding GIF" width="250"/>
+    </td>
+  </tr>
+</table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sridhar-197&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials
+<p align="center">
+  <a href="https://linkedin.com/in/sridhar-rc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" style="margin-right:15px;">
+  </a>
+  <a href="mailto:sridharchinnusamy6@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" style="margin-right:15px;">
+  </a>
+  <a href="https://leetcode.com/u/sridhar1907/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40">
+  </a>
+</p>
+
+---
+
+## 🏆 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sridhar1907?theme=nord&font=Karma&ext=contest" alt="LeetCode Stats" width="600"/>
+</p>
+
+
+
+
+## 💻 Tech Stack
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" style="margin:5px;"></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" style="margin:5px;"></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" style="margin:5px;"></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" style="margin:5px;"></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" style="margin:5px;"></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" style="margin:5px;"></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" style="margin:5px;"></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sridhar-197&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="450"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Sridhar-197&theme=dark&hide_border=false" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridhar-197&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="450"/>
+</p>
+
+---
+
+
